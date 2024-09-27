@@ -1,0 +1,4 @@
+proxy để định dạng 
+ip:port:use:pass
+"""""""""""""""""'
+data để định dạng iframe 
